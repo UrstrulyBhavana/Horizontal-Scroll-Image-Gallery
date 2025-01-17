@@ -41,4 +41,5 @@ An interactive and responsive image gallery that allows horizontal scrolling wit
 
 ## Demo
 
+![Image](https://github.com/user-attachments/assets/4bc7b554-8ce2-45ca-86cb-c0b67d73e7c4)
 
